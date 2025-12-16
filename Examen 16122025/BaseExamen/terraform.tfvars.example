@@ -1,0 +1,7 @@
+# Archivo de ejemplo para terraform.tfvars
+# Los estudiantes deben copiar este archivo a terraform.tfvars y completar con sus valores
+
+# Ejemplo:
+# aws_access_key = "AKIA..."
+# aws_secret_key = "..."
+# region = "us-east-1"
